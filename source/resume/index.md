@@ -10,25 +10,25 @@ palebluedot@gmail.com
 ### Typescript
 * [Sunflower Learning](https://www.sunflowerlearning.com)
 Fully automated AS3 to Typescript transpiler based on [as3-to-typescript](https://github.com/fdecampredon/as3-to-typescript).
-* [Chili-Publish](chili-publish.com)
+* [Chili-Publish](http://chili-publish.com)
 Port of 3D editing tools from AS3 to Typescript.
 
 ### iOS apps
 * [Bluesmart](http://ar.bluesmart.com)
 Smart suitcase with GPS, 3G, battery pack, balance, etc.
-* [Cove](cove-app.com)
+* [Cove](http://cove-app.com)
 Intuitive music app for expressing emotions.
-* [Flamencometro](fmoh.es)
+* [Flamencometro](http://fmoh.es)
 Sophisticated metronome for profesional musicians.
 * [Sketch.at](http://www.psykosoft.net)
 Messaging/drawing app.
 
 ### Audio
-* [Cove](cove-app.com)
+* [Cove](http://cove-app.com)
 Intuitive music app for expressing emotions.
 * [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
 Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
-* [Flamencometro](fmoh.es)
+* [Flamencometro](http://fmoh.es)
 Sophisticated metronome for profesional musicians.
 
 ### Graphics Demos/Experiments
