@@ -40,6 +40,8 @@ AwayJS demo/tutorial.
 Cinder experiment that produces 3D geometries out of flat images.
 * [Twitter Globe](https://vimeo.com/31057736)
 Locate twitter posts on a 3D globe.
+* [Stochastic Portraits](https://www.flickr.com/photos/90643083@N08/albums/72157632120125631)
+Image processing in Cinder.
 
 ### 3D Tools
 * [AgalTheMean](https://vimeo.com/31452884)
@@ -56,6 +58,8 @@ Full featured 3D engine for Flash.
 ### C++
 * [Cinder Stereo Explode](https://www.flickr.com/photos/90643083@N08/albums/72157632120315555)
 Cinder experiment that produces 3D geometries out of flat images.
+* [Stochastic Portraits](https://www.flickr.com/photos/90643083@N08/albums/72157632120125631)
+Image processing in Cinder.
 
 ### AIR apps
 * [Psykopaint](http://www.psykopaint.com)
