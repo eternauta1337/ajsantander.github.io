@@ -38,8 +38,12 @@ Away3D fluids simulation.
 AwayJS demo/tutorial.
 * [Stereo Explode](https://www.flickr.com/photos/90643083@N08/albums/72157632120315555)
 Cinder experiment that produces 3D geometries out of flat images.
+
+### 3D Tools
 * [AgalTheMean](https://vimeo.com/31452884)
 AGAL shader development environment.
+* [Minimole](https://github.com/thepalebluedot/minimole-core)
+Diminutive 3D engine.
 
 ### Open Source Projects
 * [AwayJS](https://github.com/awayjs)
