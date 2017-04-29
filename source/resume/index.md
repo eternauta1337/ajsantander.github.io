@@ -31,13 +31,15 @@ Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAm
 * [Flamencometro](fmoh.es)
 Sophisticated metronome for profesional musicians.
 
-### Graphics Demos
+### Graphics Demos/Experiments
 * [Fluids Simulation](https://www.youtube.com/watch?v=B261DelYI7w)
 Away3D fluids simulation.
 * [WebGL Globe](http://typescript.away3d.com/examples/Intermediate_Globe.html)
 AwayJS demo/tutorial.
 * [Stereo Explode](https://www.flickr.com/photos/90643083@N08/albums/72157632120315555)
 Cinder experiment that produces 3D geometries out of flat images.
+* [Twitter Globe](https://vimeo.com/31057736)
+Locate twitter posts on a 3D globe.
 
 ### 3D Tools
 * [AgalTheMean](https://vimeo.com/31452884)
