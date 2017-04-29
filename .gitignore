@@ -1,0 +1,8 @@
+_site
+.idea/
+.sass-cache
+node_modules/
+public/
+deploy/deploy_key
+deploy/deploy_key.pub
+themes/debug.log

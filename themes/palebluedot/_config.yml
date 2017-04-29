@@ -1,0 +1,11 @@
+
+# html lang
+language: en
+
+# main menu navigation
+menu:
+  Home: /
+  Resume: /resume
+
+# Miscelaneous
+favicon: /images/favicon.ico
