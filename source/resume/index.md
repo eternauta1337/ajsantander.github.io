@@ -11,19 +11,12 @@ Hello! I'm a senior software developer with a lot of experience in games and gra
 ## Programming Languages
 * Javascript 1 year
 * Typescript 2 years
-* Swift 2 years
-* Objective-C 3+ years
+* Swift 2+ years
+* Objective-C 4+ years
 * C/C++ 1 year
 * Actionscript 7+ years
 
 ## Recent Work
-
-### Typescript
-* [Sunflower Learning](https://www.sunflowerlearning.com)
-Fully automated AS3 to Typescript transpiler based on [as3-to-typescript](https://github.com/fdecampredon/as3-to-typescript).
-* [Chili-Publish](http://chili-publish.com)
-Port of 3D editing tools from AS3 to Typescript.
-
 ### iOS apps
 * [Bluesmart](http://ar.bluesmart.com)
 Smart suitcase with GPS, 3G, battery pack, balance, etc.
@@ -36,11 +29,15 @@ Messaging/drawing app.
 * [Psykopaint](http://www.psykopaint.com)
 AIR Advanced iPad drawing app.
 
+### Typescript
+* [Sunflower Learning](https://www.sunflowerlearning.com)
+Fully automated AS3 to Typescript transpiler based on [as3-to-typescript](https://github.com/fdecampredon/as3-to-typescript).
+* [Chili-Publish](http://chili-publish.com)
+Port of 3D editing tools from AS3 to Typescript.
+
 ### 3D Engines
-* [AwayJS](https://github.com/awayjs)
-Typescript version of Away3D.
-* [Away3D](http://away3d.com)
-Full featured 3D engine for Flash.
+* [AwayJS](https://github.com/awayjs) and [Away3D](http://away3d.com)
+Full featured 3D engine.
 
 ### Games
 * [Gloop-a-hoop](https://play.google.com/store/apps/details?id=air.gloopahoop&hl=en)
