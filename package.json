@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "ajsantander.github.io",
+  "version": "0.0.3",
   "private": true,
   "hexo": {
     "version": "3.3.5"

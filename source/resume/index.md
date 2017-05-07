@@ -6,7 +6,7 @@ date: 2017-04-28 18:15:07
 # Alejandro Santander
 palebluedot@gmail.com 
 
-I'm a senior software developer with a lot of experience in games and graphics, currently migrating to web and crypto. I've done quite a bit of iOS work too. My educational background is mainly physics, mathematics and music, so I'm quite used to high degrees of abstraction and complexity. Building 3D engines and games has taught me how to produce elegant and scalable code, but mostly about software architecture in general. I have years of experience in working with teams on site or remotely, as well as contributing to open source projects. I believe that there is true power in code, and that it really can make us better. I'd like to help with that.
+Hello! I'm a senior software developer with a lot of experience in games and graphics, currently learning  web and crypto. I've done quite a bit of iOS work too. My educational background is mainly physics, mathematics and music, so I'm quite used to high degrees of abstraction and complexity. Building 3D engines and games has taught me how to produce elegant and scalable code, but mostly about software architecture in general. I have years of experience in working with teams on site or remotely, as well as contributing to open source projects. I believe that there is true power in code, and that it really can make us better. I'd like to help with that.
 
 ## Programming Languages
 * Javascript 1 year
