@@ -6,7 +6,7 @@ date: 2017-04-28 18:15:07
 # Alejandro Santander
 palebluedot@gmail.com 
 
-Hello! I'm a senior software developer with a lot of experience in games and graphics, currently learning  web and crypto. I've done quite a bit of iOS work too. My educational background is mainly physics, mathematics and music, so I'm quite used to high degrees of abstraction and complexity. Building 3D engines and games has taught me how to produce elegant and scalable code, but mostly about software architecture in general. I have years of experience in working with teams on site or remotely, as well as contributing to open source projects. I believe that there is true power in code, and that it really can make us better. I'd like to help with that.
+Hello! I'm a senior software developer with a lot of experience in games and graphics, currently learning  web and crypto. I've done quite a bit of iOS work too. My educational background is physics, mathematics and music, so I'm used to high degrees of abstraction and the divide-and-conquer philosophy for problem solving. Building 3D engines and games has taught me how to produce code that can be extended nicely, since these topics often involve severe performance and scalability challenges. I have years of experience working with teams on site or remotely, as well as contributing to open source projects. I believe that the world can be made a better place with code, that there is true power in it. I'm looking for projects that have some of that.
 
 ## Programming Languages
 * Javascript 1 year
@@ -50,8 +50,6 @@ Flash strategy game.
 AIR based GTA-like language learning game.
 
 ## Experiments
-* [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
-Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
 * [Fluids Simulation](https://www.youtube.com/watch?v=B261DelYI7w)
 Away3D fluids simulation.
 * [WebGL Globe](http://typescript.away3d.com/examples/Intermediate_Globe.html)
@@ -70,3 +68,5 @@ Diminutive 3D engine.
 Cinder experiment that produces 3D geometries out of flat images.
 * [Stochastic Portraits](https://www.flickr.com/photos/90643083@N08/albums/72157632120125631)
 Image processing in Cinder.
+* [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
+Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
