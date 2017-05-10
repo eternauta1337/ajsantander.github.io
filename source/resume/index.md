@@ -6,7 +6,7 @@ date: 2017-04-28 18:15:07
 # Alejandro Santander
 palebluedot@gmail.com 
 
-Hello! I'm a senior software developer with a lot of experience in games and graphics, currently learning  web and crypto. I've done quite a bit of iOS work too. My educational background is physics, mathematics and music, so I'm used to high degrees of abstraction and the divide-and-conquer philosophy for problem solving. Building 3D engines and games has taught me how to produce code that can be extended nicely, since these topics often involve severe performance and scalability challenges. I have years of experience working with teams on site or remotely, as well as contributing to open source projects. I believe that the world can be made a better place with code, that there is true power in it. I'm looking for projects that have some of that.
+Hello! I'm a front end software developer specialized in advanced graphics, animation and interactivity. Building games, physics simulations and 3D engines has taught me how to code --the hard way. These are topics that often involve severe performance and scalability challenges in which a robust architecture and a trained divide-and-conquer strategy are a must. I've explored the mobile app industry by becoming an iOS developer for a while, but I'm now more interested in rapid web development, blockchain technology and the more political aspect of code. I have years of professional experience, remote and on site, I'm very familiar with agile dev, working with small and large teams, open source collaboration, etc. I'm a very proactive, forward pushing "catalyst" type of person, always eager to find new and exciting projects. So... if I can help, lets talk!
 
 ## Programming Languages
 * Javascript 1 year
