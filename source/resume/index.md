@@ -54,7 +54,7 @@ Messaging/drawing app.
 * [Psykopaint](http://www.psykopaint.com)
 Advanced drawing app for iPad.
 
-### Typescript
+## Typescript
 * [Sunflower Learning](https://www.sunflowerlearning.com)
 Fully automated AS3 to Typescript transpiler based on [as3-to-ts](https://github.com/awaytools/as3-to-ts).
 * [Chili-Publish](http://chili-publish.com)
@@ -64,11 +64,11 @@ Port of 3D editing tools from AS3 to Typescript.
 * [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
 Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
 
-### Graphics Engines
+## Graphics Engines
 * [AwayJS](https://github.com/awayjs) and [Away3D](http://away3d.com)
 Multiple open soure contributions to this full featured 3D engine.
 
-### Games
+## Games
 * [Gloop-a-hoop](https://play.google.com/store/apps/details?id=air.gloopahoop&hl=en)
 A simple 3D game for tablets.
 * [Invawayders](https://www.facebook.com/invawayders)
