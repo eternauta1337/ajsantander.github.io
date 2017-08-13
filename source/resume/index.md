@@ -4,56 +4,55 @@ date: 2017-04-28 18:15:07
 ---
 
 # Alejandro Santander
-palebluedot@gmail.com 
+palebluedot@gmail.com
 
-Hello! I'm a senior, front-end software developer looking for projects that involve building web applications for blockchain based projects. For years, I've specialized in 3D rendering and physics engines. In particular, I built libraries for people to use in their games, as well as acted as a specialist graphics consultant for individual clients. As my interest for gaming waned and my focus shifted into more general purpose applications, I spent a few years developing all kinds of iOS applications as an Objective-C/Swift developer. I've worked on dozens of projects in all the formats I can think of: as a freelance developer, as a permanent employee with large and/or small teams, building entire apps on my own, directing teams, collaborating with open source communities, etc. --I am very familiar with agile/scrum. I believe that the future is in the web, and in decentralization, so I am making a 3rd change in my carrier to become a full stack nodejs + dapp developer.
+I'm a senior full-stack software developer. I've specialized in advanced graphics and 3D rendering for the first few years of my carreer, and later worked on iOS apps for a while. Right now, I'm focusing on Dapps and general blockchain technology.
 
 ## Programming Languages
-* Javascript 5 year
+* Javascript 5 years
 * Typescript 2 years
 * Swift 3 years
 * Objective-C 4+ years
 * C/C++ 1 year
 * Actionscript 7+ years
 
-## Experiments
+## Blockchain Experiments
+* [Tokenless](https://github.com/ajsantander/tokenless)
+A tokenless prediction market for the ethereum blockchain.
 * [BirthdayBet](https://github.com/ajsantander/birthday-bet-ui)
-Ethereum Smart Contract for betting on a date.
+Ethereum Smart Contract for betting on a date an event will occur.
 * [Cryptoplot](https://github.com/ajsantander/cryptoplot)
-React + D3 bitcoin price plot.
+React + D3 bitcoin price plot experiments.
+
+## Graphics Experiments
 * [Fluids Simulation](https://www.youtube.com/watch?v=B261DelYI7w)
-Away3D fluids simulation.
+3D shallow fluids simulation.
 * [WebGL Globe](http://typescript.away3d.com/examples/Intermediate_Globe.html)
 AwayJS demo/tutorial.
 * [Stereo Explode](https://www.flickr.com/photos/90643083@N08/albums/72157632120315555)
 Cinder experiment that produces 3D geometries out of flat images.
 * [Twitter Globe](https://vimeo.com/31057736)
-Locate twitter posts on a 3D globe.
+Hit the twitter API and pin tweets on a 3D globe.
 * [Stochastic Portraits](https://www.flickr.com/photos/90643083@N08/albums/72157632120125631)
 Image processing in Cinder.
 * [AgalTheMean](https://vimeo.com/31452884)
-AGAL shader development environment.
+AGAL gpu shader development environment.
 * [Minimole](https://github.com/thepalebluedot/minimole-core)
-Diminutive 3D engine.
+Mini 3D engine (educational purposes).
 * [Cinder Stereo Explode](https://www.flickr.com/photos/90643083@N08/albums/72157632120315555)
-Cinder experiment that produces 3D geometries out of flat images.
-* [Stochastic Portraits](https://www.flickr.com/photos/90643083@N08/albums/72157632120125631)
-Image processing in Cinder.
-* [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
-Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
+Cinder experiment that triangulates geometries out of flat images.
 
-## Recent Work
-### iOS apps
+## iOS apps
 * [Bluesmart](http://ar.bluesmart.com)
 Smart suitcase with GPS, 3G, battery pack, balance, etc.
 * [Cove](http://cove-app.com)
 Intuitive music app for expressing emotions.
 * [Flamencometro](http://fmoh.es)
-Sophisticated metronome for profesional musicians.
+Sophisticated metronome for profesional guitarists.
 * [Sketch.at](http://www.psykosoft.net)
 Messaging/drawing app.
 * [Psykopaint](http://www.psykopaint.com)
-AIR Advanced iPad drawing app.
+Advanced drawing app for iPad.
 
 ### Typescript
 * [Sunflower Learning](https://www.sunflowerlearning.com)
@@ -61,16 +60,20 @@ Fully automated AS3 to Typescript transpiler based on [as3-to-ts](https://github
 * [Chili-Publish](http://chili-publish.com)
 Port of 3D editing tools from AS3 to Typescript.
 
-### 3D Engines
+## Audio Programming
+* [TheUnbelievableSequencer](https://github.com/thepalebluedot/TheUnbelievableSequencer)
+Audio sequencer built on top of [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
+
+### Graphics Engines
 * [AwayJS](https://github.com/awayjs) and [Away3D](http://away3d.com)
-Full featured 3D engine.
+Multiple open soure contributions to this full featured 3D engine.
 
 ### Games
 * [Gloop-a-hoop](https://play.google.com/store/apps/details?id=air.gloopahoop&hl=en)
-Simple 3D game for tablets.
+A simple 3D game for tablets.
 * [Invawayders](https://www.facebook.com/invawayders)
-Game/demo for first AIR releases.
+Game/demo for first AIR releases (back in the day when Adobe was getting into mobile).
 * [Intel ITManager](https://plan.seek.intel.com/ITDMGameEOL4473)
-Flash strategy game.
+Complex flash strategy game.
 * Mindshapes Language City
 AIR based GTA-like language learning game.

@@ -6,6 +6,7 @@ language: en
 menu:
   Home: /
   Resume: /resume
+  Blog: /blog
 
 # Miscelaneous
 favicon: /images/favicon.ico
